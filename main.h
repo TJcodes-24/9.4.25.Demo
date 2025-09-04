@@ -1,3 +1,11 @@
+/*************************************************
+* Name: Thyeasha Joseph
+* Assignment: Hello World (HW2)
+* Purpose: Contains function declarations and
+*          include guards for the project.
+*************************************************/
+
+
 /*
  * This is a simple Hello World in C++.
  * Note the header structure and files.
